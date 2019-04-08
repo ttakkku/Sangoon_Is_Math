@@ -1,2 +1,7 @@
 # Sangoon_Is_Math
-Sangoon_Is_Math is javascript
+Sangoon_Is_Math 
+
+Helper
+--------------
+|            |     
+--------------
