@@ -7,6 +7,11 @@
 [![ad](https://img.shields.io/npm/dt/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 # Sangoon_Is_Math
 
+install
+```
+npm install sangoon_is_math --save
+```
+
 Usage:
 ```
 const SIM = require("sangoon_is_math");
