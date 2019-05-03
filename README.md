@@ -2,8 +2,5 @@
 Sangoon_Is_Math 
 
 ```
-const SIM = require("./Sangoon_Is_Math/index.js");
-
-SIM.plus(10, 12)
+const Sangoon_Is_Math = require("./Sangoon_Is_Math/index.js");
 ```
-
