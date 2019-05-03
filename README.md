@@ -2,8 +2,8 @@
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![NPM](https://nodei.co/npm/sangoon_is_math.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/sangoon_is_math/)
 [![NPM version](https://badge.fury.io/js/discord.js-lavalink.svg)](http://badge.fury.io/js/discord.js-lavalink)
-[MIT](https://img.shields.io/dub/l/vibe-d.svg)
-[level](https://img.shields.io/github/package-json/v/IcedFrisby/IcedFrisby.svg)
+[![MIT](https://img.shields.io/dub/l/vibe-d.svg)()]
+[![level](https://img.shields.io/github/package-json/v/IcedFrisby/IcedFrisby.svg)()]
 # Sangoon_Is_Math
 
 Usage:
