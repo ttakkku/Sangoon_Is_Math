@@ -13,3 +13,8 @@ exports.division = function (a, b) {
 exports.caret = function (a, b) {
     return a ^ b
 }
+exports.plueandminus = function (a, b) {
+    var plus = a + b;
+    var result = plus - b;
+   return result;
+}
