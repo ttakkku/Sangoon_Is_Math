@@ -5,7 +5,7 @@
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![level](https://img.shields.io/github/package-json/v/ttakkku/Sangoon_Is_Math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![ad](https://img.shields.io/npm/dt/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
-
+[![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
 # Sangoon_Is_Math
 
 install
