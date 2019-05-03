@@ -23,3 +23,7 @@ exports.plueandminus = function (a, b) {
 exports.tag = function () {
    return "Sangoon_Is_Noob#0972";
 }
+
+exports.sex = function (girl, boy) {
+   return girl+boy+"baby";
+}
