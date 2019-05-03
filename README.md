@@ -4,6 +4,7 @@
 [![NPM version](https://badge.fury.io/js/sangoon_is_math.svg)](http://badge.fury.io/jssangoon_is_math/)
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![level](https://img.shields.io/github/package-json/v/ttakkku/Sangoon_Is_Math.svg)](https://www.npmjs.com/package/sangoon_is_math)
+[![ad](https://img.shields.io/npm/dw/sangoon_is_math.svg)(https://www.npmjs.com/package/sangoon_is_math)]
 # Sangoon_Is_Math
 
 Usage:
