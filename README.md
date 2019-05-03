@@ -2,7 +2,7 @@
 
 Usage:
 ```
-const SIM = require("../index.js");
+const SIM = require("sangoon_is_math");
 
 console.log(SIM.plus(3, 4))
 console.log(SIM.Minus(3, 4))
