@@ -1,0 +1,24 @@
+{
+    "name": "sangoon_is_math",
+    "version": "0.1.0",
+    "description": "Math",
+    "main": "index.js",
+    "directories": {
+        "example": "examples",
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ttakkku/Sangoon_Is_Math.git"
+    },
+    "author": "ttakkku",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ttakkku/Sangoon_Is_Math/issues"
+    },
+    "homepage": "https://github.com/ttakkku/Sangoon_Is_Math#readme"
+
+}
