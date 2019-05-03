@@ -1,6 +1,6 @@
 {
     "name": "sangoon_is_math",
-    "version": "0.1.0beta",
+    "version": "0.0.1-bugfix",
     "description": "Math",
     "main": "index.js",
     "scripts": {
@@ -15,6 +15,10 @@
     "bugs": {
         "url": "https://github.com/ttakkku/Sangoon_Is_Math/issues"
     },
-    "homepage": "https://github.com/ttakkku/Sangoon_Is_Math#readme"
-
+    "homepage": "https://github.com/ttakkku/Sangoon_Is_Math#readme",
+    "keywords": [
+      "sang",
+      "sangoon",
+    "sangoon_is_math"
+  ]
 }
