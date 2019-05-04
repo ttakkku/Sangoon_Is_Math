@@ -7,7 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
 <div align="center">
  <p>
-<a href="https://nodei.co/npm/sangoon_is_math/"><img src="https://nodei.co/npm/sangoon_is_math.pngdownloads=true&downloadRank=true&stars=true alt="npm installnfo"/></a>
+<a href="https://nodei.co/npm/sangoon_is_math/"><img src="https://nodei.co/npm/sangoon_is_math.pngdownloads=true&downloadRank=true&stars=true/></a>
   </p>
 <div>
    
