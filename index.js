@@ -1,11 +1,11 @@
 /**
-* @developers cy8er, ttakkku
-* @github https://github.com/ttakkku/Sangoon_Is_Math
+* @Developers cy8er, ttakkku
+* @Github https://github.com/ttakkku/Sangoon_Is_Math
 * @README https://github.com/ttakkku/Sangoon_Is_Math/blob/master/README.md
 */
 
 /**
-* math
+* Math
 */
 
 exports.plus = function (a, b) {
@@ -53,7 +53,7 @@ var ranNum = Math.floor((Math.random() * b) + a);
   return ranNum;
 };
 /**
-* official
+* Official
 */
 exports.tag = function () {
    return "Sangoon_Is_Noob#0972";
