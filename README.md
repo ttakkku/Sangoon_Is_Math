@@ -1,4 +1,3 @@
-# Sangoon_Is_Math
 <div align="center">
   <p>
     <a href="https://discord.gg/KNBGZU2"><img src="https://cdn.discordapp.com/attachments/573884352576880640/574104601700204544/unknown.png" width="586" alt="sangoon_is_math"/></a>
