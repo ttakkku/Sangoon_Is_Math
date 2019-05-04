@@ -77,10 +77,10 @@ exports.official.github = function () {
 * Other
 */
 exports.discord = function () {
-	return "as";
+	return "Discord";
 };
 exports.discord.webhook = function (){
-	return "asdadad";
+	return "none";
 };
 
 exports.discord.sirutoken = function(){
