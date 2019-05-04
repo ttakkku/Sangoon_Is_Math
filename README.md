@@ -1,3 +1,4 @@
+# Sangoon_Is_Math
 <div align="center">
   <p>
     <a href="https://discord.gg/KNBGZU2"><img src="https://cdn.discordapp.com/attachments/573884352576880640/574104601700204544/unknown.png" width="586" alt="sangoon_is_math"/></a>
@@ -13,17 +14,12 @@
 [![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
 [![NPM](https://nodei.co/npm/sangoon_is_math.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/sangoon_is_math/)
 
-
-
-
-# Sangoon_Is_Math
-
-Install
+## Install
 ```
 npm install sangoon_is_math --save
 ```
 
-Example Usage:
+## Example Usage:
 ```
 const SIM = require("sangoon_is_math");
 
