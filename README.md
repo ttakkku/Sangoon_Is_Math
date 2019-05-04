@@ -24,3 +24,6 @@ console.log(SIM.division(3, 4));
 console.log(SIM.caret(3, 4));
 console.log(SIM.official.github);
 ```
+# Docs
+
+Creating....
