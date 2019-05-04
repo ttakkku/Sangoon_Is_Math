@@ -1,7 +1,7 @@
 {
     "name": "sangoon_is_math",
-    "version": "0.0.1-bugfix",
-    "description": "Math",
+    "version": "0.0.1",
+    "description": "Math and Other",
     "main": "index.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
