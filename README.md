@@ -6,7 +6,7 @@
 [![ad](https://img.shields.io/npm/dt/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
 <div align="center">
-<a href="https://nodei.co/npm/sangoon_is_math"><img  src="https://nodei.co/npm/sangoon_is_math.png?                   downloads=true&amp;downloadRank=true&amp;stars=true"  alt="npm"></a>
+<a href="https://nodei.co/npm/sangoon_is_math"><img src="https://nodei.co/npm/sangoon_is_math.png?                   downloads=true&amp;downloadRank=true&amp;stars=true" alt="npm"></a>
 </div>
    
 # Sangoon_Is_Math
