@@ -37,7 +37,7 @@ exports.plueandminus = function (a, b) {
 exports.minusandplue = function (a, b) {
     var minus = a - b;
     var result = minus + b;
-   return result; //ㅎㅇ <-- 본후에 지우셈
+   return result; 
 };
 
 exports.pow = function(a, b){
