@@ -18,12 +18,12 @@
 
 # Sangoon_Is_Math
 
-install
+Install
 ```
 npm install sangoon_is_math --save
 ```
 
-Usage:
+Example Usage:
 ```
 const SIM = require("sangoon_is_math");
 
