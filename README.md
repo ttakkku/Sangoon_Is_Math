@@ -24,7 +24,7 @@ npm install sangoon_is_math --save
 ```
 
 Example Usage:
-```
+```js
 const SIM = require("sangoon_is_math");
 
 console.log(SIM.plus(3, 4));
