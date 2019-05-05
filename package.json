@@ -1,6 +1,6 @@
 {
     "name": "sangoon_is_math",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Math and Other",
     "main": "index.js",
     "scripts": {
