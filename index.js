@@ -1,5 +1,5 @@
 /**
-* @developers cy8er, ttakkku
+* @Developers cy8er, ttakkku
 * @Github https://github.com/ttakkku/Sangoon_Is_Math
 * @README https://github.com/ttakkku/Sangoon_Is_Math/blob/master/README.md
 */
