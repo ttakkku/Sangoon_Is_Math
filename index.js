@@ -1,11 +1,11 @@
 /**
-* @Developers cy8er, ttakkku
+* @developers cy8er, ttakkku
 * @Github https://github.com/ttakkku/Sangoon_Is_Math
 * @README https://github.com/ttakkku/Sangoon_Is_Math/blob/master/README.md
 */
 
 /**
-* Math
+* math
 */
 
 exports.plus = function (a, b) {
@@ -52,12 +52,40 @@ exports.random = function(a, b){
 var ranNum = Math.floor((Math.random() * b) + a); 
   return ranNum;
 };
+
+exports.PrimeNumbe = function(a, b) {
+    let results = [];
+    for (let i = a; i <= b; i++) {
+        let isPrimeNumber = true;
+        for (let j = 2; j < i; j++) {
+            if (i % j === 0) {
+                isPrimeNumber = false;
+            }
+        }
+
+        if (isPrimeNumber) {
+            results.push(i);
+        }
+    }
+
+    return results;
+}
+
+exports.pi2 = function(a) {
+    return 2 * Math.PI * a;
+}
+
+exports.pi = function(){
+    return Math.PI;
+}
+
+exports.round = function(a) {
+   return Math.round(a);
+}
+
 /**
-* Official
+* official
 */
-exports.tag = function () {
-   return "Sangoon_Is_Noob#0972";
-};
 
 exports.official = function () {
 	return "Official Guild, Github";
@@ -76,11 +104,17 @@ exports.official.github = function () {
 /**
 * Other
 */
+
+exports.tag = function () {
+    return "Sangoon_Is_Noob#0972";
+};
+
 exports.discord = function () {
 	return "Discord";
 };
+
 exports.discord.webhook = function (){
-	return "none";
+	return "NoNe";
 };
 
 exports.discord.sirutoken = function(){

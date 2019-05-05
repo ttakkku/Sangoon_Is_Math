@@ -13,13 +13,18 @@
 [![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
 [![NPM](https://nodei.co/npm/sangoon_is_math.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/sangoon_is_math/)
 
-## Install
+
+
+
+# Sangoon_Is_Math
+
+Install
 ```
 npm install sangoon_is_math --save
 ```
 
-## Example Usage:
-```js
+Example Usage:
+```
 const SIM = require("sangoon_is_math");
 
 console.log(SIM.plus(3, 4));
@@ -27,7 +32,7 @@ console.log(SIM.Minus(3, 4));
 console.log(SIM.multiply(3, 4));
 console.log(SIM.division(3, 4));
 console.log(SIM.caret(3, 4));
-console.log(SIM.official.github());
+console.log(SIM.official.github);
 ```
 # Docs
 
