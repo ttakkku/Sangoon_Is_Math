@@ -95,27 +95,13 @@ exports.official = function () {
 *  };
 */
 
-exports.official.github = function () {
-	return "https://github.com/ttakkku/Sangoon_Is_Math";
-};
+exports.official.github = return "https://github.com/ttakkku/Sangoon_Is_Math";
+
 
 /**
 * Other
 */
 
-exports.tag = function () {
-    return "Sangoon_Is_Noob#0972";
-};
+exports.tag = return "Sangoon_Is_Noob#0972";
 
-exports.discord = function () {
-	return "Discord";
-};
-
-exports.discord.webhook = function (){
-	return "NoNe";
-};
-
-exports.discord.sirutoken = function(){
-	return "none";
-};
-
+exports.discord = return "Discord";
