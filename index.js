@@ -85,7 +85,7 @@ exports.round = function(a) {
 * official
 */
 
-exports.official = return "Official Guild, Github";
+exports.official = "Official Guild, Github";
 
 /** 
 *  exports.official.guild = function () {
@@ -93,13 +93,13 @@ exports.official = return "Official Guild, Github";
 *  };
 */
 
-exports.official.github = return "https://github.com/ttakkku/Sangoon_Is_Math";
+exports.official.github = "https://github.com/ttakkku/Sangoon_Is_Math";
 
 
 /**
 * Other
 */
 
-exports.tag = return "Sangoon_Is_Noob#0972";
+exports.tag = "Sangoon_Is_Noob#0972";
 
-exports.discord = return "Discord";
+exports.discord = "Discord";
