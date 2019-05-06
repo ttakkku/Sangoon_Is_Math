@@ -69,17 +69,17 @@ exports.primenumbe = function(a, b) {
     }
 
     return results;
-}
+};
 
 exports.pi2 = function(a) {
     return 2 * Math.PI * a;
-}
+};
 
-exports.pi= Math.PI
+exports.pi= Math.PI;
 
 exports.round = function(a) {
    return Math.round(a);
-}
+};
 
 /**
 * official
