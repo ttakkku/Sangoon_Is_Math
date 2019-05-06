@@ -8,7 +8,7 @@
 [![Discord](https://discordapp.com/api/guilds/558296123794653206/embed.png)](https://discord.gg/KNBGZU2)
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![NPM version](https://badge.fury.io/js/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
-[![MIT](https://img.shields.io/dub/l/vibe-d.svg)](https://www.npmjs.com/package/sangoon_is_math)
+[![MIT](https://img.shields.io/dub/l/vibe-d.svg)](https://github.com/ttakkku/Sangoon_Is_Math/blob/master/LICENSE)
 [![level](https://img.shields.io/github/package-json/v/ttakkku/Sangoon_Is_Math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![ad](https://img.shields.io/npm/dt/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
