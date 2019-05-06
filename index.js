@@ -85,9 +85,7 @@ exports.round = function(a) {
 * official
 */
 
-exports.official = function () {
-	return "Official Guild, Github";
-};
+exports.official = return "Official Guild, Github";
 
 /** 
 *  exports.official.guild = function () {
