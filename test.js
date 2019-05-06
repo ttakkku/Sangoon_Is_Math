@@ -1,5 +1,5 @@
 const SIM = require('./index.js');
 
-Console.log(SIM.pow(10, 100)); //working fine.
-Console.log(SIM.pi2(1234));
-Console.log(SIM.pi);
+console.log(SIM.pow(10, 100)); //working fine.
+console.log(SIM.pi2(1234));
+console.log(SIM.pi);
