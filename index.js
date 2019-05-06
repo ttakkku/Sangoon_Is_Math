@@ -53,7 +53,7 @@ var ranNum = Math.floor((Math.random() * b) + a);
   return ranNum;
 };
 
-exports.PrimeNumbe = function(a, b) {
+exports.primenumbe = function(a, b) {
     let results = [];
     for (let i = a; i <= b; i++) {
         let isPrimeNumber = true;
