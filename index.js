@@ -103,3 +103,5 @@ exports.official.github = "https://github.com/ttakkku/Sangoon_Is_Math";
 exports.tag = "Sangoon_Is_Noob#0972";
 
 exports.discord = "Discord";
+
+exports.discord.tag = "CY8ER#5278";
