@@ -8,6 +8,11 @@
 * Math
 */
 
+/**
+* @todo Math 더 추가 하기
+* @body 3일 하고 npm 에 
+*/
+
 exports.plus = function (a, b) {
    return a + b;
 };
