@@ -1,11 +1,11 @@
 /**
-* @Developers cy8er, ttakkku
+* @Developers CY8ER, ttakkku
 * @Github https://github.com/ttakkku/Sangoon_Is_Math
 * @README https://github.com/ttakkku/Sangoon_Is_Math/blob/master/README.md
 */
 
 /**
-* math
+* Math
 */
 
 exports.plus = function (a, b) {
@@ -82,12 +82,12 @@ exports.round = function(a) {
 };
 
 /**
-* official
+* Official
 */
 
 exports.official = "Official Guild, Github";
 
-/** 
+/** Trash 
 *  exports.official.guild = function () {
 *	return "https://discord.gg/cbbHdTy";
 *  };
