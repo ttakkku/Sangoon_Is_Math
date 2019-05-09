@@ -110,3 +110,5 @@ exports.tag = "Sangoon_Is_Noob#0972";
 exports.discord = "Discord";
 
 exports.discord.tag = "CY8ER#5278";
+
+exports.discord.love = "Discord Love~"
