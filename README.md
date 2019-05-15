@@ -16,9 +16,6 @@
 
 [![discord embed](https://discordapp.com/api/guilds/558296123794653206/embed.png?style=banner2)](https://discord.gg/KNBGZU2)[![NPM](https://nodei.co/npm/sangoon_is_math.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/sangoon_is_math/)
 
-
-
-
 # Sangoon_Is_Math
 
 Install
@@ -40,3 +37,11 @@ console.log(SIM.official.github);
 # Docs
 
 Creating....
+
+## Contributor's Server
+
+<div align="center">
+  <p>
+    <a href="https://discord.gg/7zcEKEJ"><img src="https://discordapp.com/api/guilds/547738804929167360/embed.png?style=banner4" width="586" alt="sangoon_is_math"/></a>
+  </p>
+</div>
