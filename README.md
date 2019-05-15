@@ -34,11 +34,11 @@ console.log(SIM.division(3, 4));
 console.log(SIM.caret(3, 4));
 console.log(SIM.official.github);
 ```
-# Docs
+## Docs
 
 Creating....
 
-## Contributor's Server
+# Contributor's Server
 
 <div align="center">
   <p>
