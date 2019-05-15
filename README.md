@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href="https://discord.gg/KNBGZU2"><img src="https://cdn.discordapp.com/attachments/563012755834142726/574120972035031041/unknown.png" width="586" alt="sangoon_is_math"/></a>
+    <a href="https://discord.gg/KNBGZU2"><img src="https://cdn.discordapp.com/attachments/577091292190867456/578239383807983618/unknown.png" width="586" alt="sangoon_is_math"/></a>
   </p>
 </div>
 
