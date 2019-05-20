@@ -111,4 +111,6 @@ exports.discord = "Discord";
 
 exports.discord.tag = "CY8ER#5278";
 
-exports.discord.love = "Discord Love~"
+exports.discord.love = "Discord Love~";
+
+exports.Other = "Other";
