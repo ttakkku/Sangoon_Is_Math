@@ -13,6 +13,7 @@
 [![level](https://img.shields.io/github/package-json/v/ttakkku/Sangoon_Is_Math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![ad](https://img.shields.io/npm/dt/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![GitHub followers](https://img.shields.io/github/followers/ttakkku.svg?label=Flollow&style=social)](https://github.com/ttakkku)
+[![Build status](https://ci.appveyor.com/api/projects/status/n3x6fqty42c5bp50?svg=true)](https://ci.appveyor.com/project/ttakkku/sangoon-is-math)
 
 [![discord embed](https://discordapp.com/api/guilds/558296123794653206/embed.png?style=banner2)](https://discord.gg/KNBGZU2)[![NPM](https://nodei.co/npm/sangoon_is_math.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/sangoon_is_math/)
 
