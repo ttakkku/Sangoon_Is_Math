@@ -23,6 +23,9 @@ Install
 ```
 npm install sangoon_is_math --save
 ```
+```
+yarn add sangoon_is_math
+```
 
 Example Usage:
 ```js
