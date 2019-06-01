@@ -45,11 +45,4 @@ Creating....
 # Contributor's Server
 
 [![discord embed](https://discordapp.com/api/guilds/541782241131495434/embed.png?style=banner2)](https://discord.gg/yhuURsY)
-
-
-
-<div align="center">
-  <p>
-    <a href="https://discord.gg/7zcEKEJ"><img src="https://discordapp.com/api/guilds/547738804929167360/embed.png?style=banner4" width="586" alt="sangoon_is_math"/></a>
-  </p>
-</div>
+[![discord embed](https://discordapp.com/api/guilds/547738804929167360//embed.png?style=banner2)](https://discord.gg/7zcEKEJ)
