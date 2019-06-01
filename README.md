@@ -46,6 +46,12 @@ Creating....
 
 <div align="center">
   <p>
+    <a href="https://discord.gg/yhuURsY"><img src="https://discordapp.com/api/guilds/541782241131495434/embed.png?style=banner4" width="586" alt="sangoon_is_math"/></a>
+  </p>
+</div>
+
+<div align="center">
+  <p>
     <a href="https://discord.gg/7zcEKEJ"><img src="https://discordapp.com/api/guilds/547738804929167360/embed.png?style=banner4" width="586" alt="sangoon_is_math"/></a>
   </p>
 </div>
