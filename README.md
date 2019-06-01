@@ -44,5 +44,6 @@ Creating....
 
 # Contributor's Server
 
-[![discord embed](https://discordapp.com/api/guilds/541782241131495434/embed.png?style=banner2)](https://discord.gg/yhuURsY)
-[![discord embed](https://discordapp.com/api/guilds/547738804929167360//embed.png?style=banner2)](https://discord.gg/7zcEKEJ)
+[![pmh discord embed](https://discordapp.com/api/guilds/541782241131495434/embed.png?style=banner2)](https://discord.gg/yhuURsY)
+
+[![cdiscord embed](https://discordapp.com/api/guilds/547738804929167360//embed.png?style=banner2)](https://discord.gg/7zcEKEJ)
