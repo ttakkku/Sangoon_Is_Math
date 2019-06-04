@@ -5,7 +5,7 @@
 </div>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/03b60ade48244dc0adff8632db48ffac)](https://app.codacy.com/app/ttakkku/Sangoon_Is_Math?utm_source=github.com&utm_medium=referral&utm_content=ttakkku/Sangoon_Is_Math&utm_campaign=Badge_Grade_Dashboard)
-
+[![Build Status](https://travis-ci.com/ttakkku/Sangoon_Is_Math.svg?branch=master)](https://travis-ci.com/ttakkku/Sangoon_Is_Math)
 [![Discord](https://discordapp.com/api/guilds/558296123794653206/embed.png)](https://discord.gg/KNBGZU2)
 [![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/sangoon_is_math)
 [![NPM version](https://badge.fury.io/js/sangoon_is_math.svg)](https://www.npmjs.com/package/sangoon_is_math)
