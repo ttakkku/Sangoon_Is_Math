@@ -154,7 +154,7 @@ exports.primenumbers = (a, b) => {
         }
     }
 
-    return results.shift()
+    return results
 }
 
 /**
