@@ -2,7 +2,7 @@
  * @author CY8ER, ttakkku, PMH
  * @version 0.0.3
  * @license MIT
- * @copyright Copyright (c) 2019 ttakkku
+ * @copyright (c) 2019 ttakkku
  * @github https://github.com/ttakkku/Sangoon_Is_Math
  * @see https://github.com/ttakkku/Sangoon_Is_Math/blob/master/README.md
  */
