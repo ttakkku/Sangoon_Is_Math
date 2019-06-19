@@ -7,13 +7,12 @@
  * @see https://github.com/ttakkku/Sangoon_Is_Math/blob/master/README.md
  */
 
+'use static' // 엄격모드 진입
+
 /**
-* @todo Math 더 추가 하기
 * @todo 삼각함수(sin, cos, tan) 추가
 * @body 3일 하고 npm 에 
 */
-
-'use static' // 엄격모드 진입
 
 /**
  * a에 b를 더한 값을 리턴합니다
