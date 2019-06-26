@@ -21,8 +21,5 @@
       "sangoon",
     "sangoon_is_math",
     "math"
-    ],
-    "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
-  }
+    ]
 }
