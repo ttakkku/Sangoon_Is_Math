@@ -1,26 +1,26 @@
 from setuptools import setup, find_packages
 
+
 setup(
-    name='sangoon_is_math',
-    version='0.0.1',
-    description='Math and Other',
-    author='ttakkku',
-    author_email='ttakkku@outlook.com',
-    url='https://github.com/ttakkku/Sangoon_Is_Math/tree/Python',
-    download_url='',
-    install_requires=[],
-    packages=find_packages(exclude=[]),
-    keywords=['math'],
-    python_requires='>=3',
-    package_data={},
+    name             = 'Sangoon_Is_Math',
+    version          = '0.1.0',
+    description      = 'Math',
+    long_description = open('README.md').read(),
+    author           = 'ttakkku',
+    author_email     = 'ttakkku@outlook.com',
+    url              = 'https://...',
+    download_url     = 'https://...',
+    install_requires = ['requests'],
+    packages         = find_packages(exclude = ['docs', 'example']),
+    keywords         = ['bot', 'api', 'math'],
+    python_requires  = '>=3',
     zip_safe=False,
-    classifiers=[
+    classifiers      = [
         'Programming Language :: Python :: 3',
         'Programming Language :: Python :: 3.2',
         'Programming Language :: Python :: 3.3',
         'Programming Language :: Python :: 3.4',
         'Programming Language :: Python :: 3.5',
-        'Programming Language :: Python :: 3.6',
-        'Programming Language :: Python :: 3.7',
-    ],
+        'Programming Language :: Python :: 3.6'
+    ]
 )
