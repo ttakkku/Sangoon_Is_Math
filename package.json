@@ -1,6 +1,6 @@
 {
     "name": "sangoon_is_math",
-    "version": "0.0.3",
+    "version": "0.0.3-a",
     "description": "Math and Other",
     "main": "index.js",
     "scripts": {
@@ -8,7 +8,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ttakkku/Sangoon_Is_Math.git"
+        "url": "git://github.com/ttakkku/Sangoon_Is_Math.git"
     },
     "author": "ttakkku",
     "license": "MIT",
